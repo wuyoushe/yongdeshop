@@ -1,0 +1,57 @@
+[ 2017-03-21T20:19:49+08:00 ] ::1 /0610/shop/index.php/Admin/Manager/distribute/role_id/
+ERR: 非法操作:distribute
+
+[ 2017-03-21T20:20:05+08:00 ] ::1 /0610/shop/index.php/Admin/Manager/tianjia
+ERR: 非法操作:tianjia
+
+[ 2017-03-21T20:30:13+08:00 ] ::1 /0610/shop/index.php/home/user
+ERR: 非法操作:index
+
+[ 2017-03-21T20:31:54+08:00 ] ::1 /0610/shop/index.php/Home/User
+ERR: 非法操作:index
+
+[ 2017-03-21T20:33:01+08:00 ] ::1 /0610/shop/index.php/User
+ERR: 非法操作:index
+
+[ 2017-03-21T20:33:46+08:00 ] ::1 /0610/shop/index.php/User/user
+ERR: 非法操作:user
+
+[ 2017-03-21T20:35:22+08:00 ] ::1 /0610/shop/index.php/Home/User/user
+ERR: 非法操作:user
+
+[ 2017-03-21T20:36:39+08:00 ] ::1 /0610/shop/index.php/Home/User/index.php?r=user/login
+ERR: 非法操作:index.php
+
+[ 2017-03-21T20:36:42+08:00 ] ::1 /0610/shop/index.php/Home/User/index.php?r=user/register
+ERR: 非法操作:index.php
+
+[ 2017-03-21T20:37:27+08:00 ] ::1 /0610/shop/index.php/Home/User/index.php?r=user/login
+ERR: 非法操作:index.php
+
+[ 2017-03-21T20:37:30+08:00 ] ::1 /0610/shop/index.php/Home/User/index.php?r=user/login
+ERR: 非法操作:index.php
+
+[ 2017-03-21T20:37:48+08:00 ] ::1 /0610/shop/index.php/Home/User/index.php
+ERR: 非法操作:index.php
+
+[ 2017-03-21T22:15:48+08:00 ] ::1 /0610/shop/index.php/Admin/Index/right
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Index\right.html"  on line 26 "&lt;td style=&quot;font-weight: bold; font-size: 16px&quot;&gt;{#smarty.session.admin_name}&lt;/td&gt;&lt;/tr&gt;"  - Unexpected ".", expected one of: "#"
+
+[ 2017-03-21T22:24:09+08:00 ] ::1 /0610/shop/index.php/Admin/Index/right
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Index\right.html"  on line 50 "&lt;td style=&quot;color: #880000&quot;&gt;{:date('Y-m-d H:i:s',$vo['create_time'])}&lt;/td&gt;&lt;/tr&gt;"  - Unexpected ":"
+
+[ 2017-03-21T22:26:11+08:00 ] ::1 /0610/shop/index.php/Admin/Index/right
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Index\right.html"  on line 50 "&lt;td style=&quot;color: #880000&quot;&gt;{$time|date=&quot;Y-m-d H:i&quot;,###}&lt;/td&gt;&lt;/tr&gt;"  - Unexpected "=", expected one of: "}" , " "
+
+[ 2017-03-21T22:27:26+08:00 ] ::1 /0610/shop/index.php/Admin/Index/right
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Index\right.html"  on line 50 "&lt;td style=&quot;color: #880000&quot;&gt;{$time|date=&quot;Y-m-d H:i&quot;,###}&lt;/td&gt;&lt;/tr&gt;"  - Unexpected "=", expected one of: "}" , " "
+
+[ 2017-03-21T22:30:47+08:00 ] ::1 /0610/shop/index.php/Admin/Index/right
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Index\right.html"  on line 50 "&lt;td style=&quot;color: #880000&quot;&gt;{:time()}&lt;/td&gt;&lt;/tr&gt;"  - Unexpected ":"
+
+[ 2017-03-21T22:58:20+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/showlist
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Goods\showlist.html"  on line 59 "&lt;td&gt;{$v.time()|data_format:&quot;%Y-%m-%d %T&quot;}&lt;/td&gt;"  - Unexpected "(", expected one of: "}" , " "
+
+[ 2017-03-21T22:58:21+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/showlist
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Goods\showlist.html"  on line 59 "&lt;td&gt;{$v.time()|data_format:&quot;%Y-%m-%d %T&quot;}&lt;/td&gt;"  - Unexpected "(", expected one of: "}" , " "
+

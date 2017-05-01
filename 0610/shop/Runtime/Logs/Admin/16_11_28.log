@@ -1,0 +1,747 @@
+[ 2016-11-28T20:59:02+08:00 ] ::1 /0610/shop/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.039003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.016001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.016001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-28T20:59:02+08:00 ] ::1 /0610/shop/index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T20:59:03+08:00 ] ::1 /0610/shop/index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: auth_infoA D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\e032df95de787d265775d4402b8b9f85.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.353020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.354021s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T20:59:03+08:00 ] ::1 /0610/shop/index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T20:59:20+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.2290s ]
+SQL: INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_number`) VALUES ('sansung6s','5600','130','16') [ RunTime:0.2160s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T20:59:23+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_number`) VALUES ('sansung6s','5600','130','16') [ RunTime:0.1640s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T21:01:36+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0040s ]
+SQL: INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_number`) VALUES ('sansung6s','5600','130','16') [ RunTime:0.0720s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-28T21:01:37+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_number`) VALUES ('sansung6s','5600','130','16') [ RunTime:0.0690s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T21:58:27+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-28T22:02:35+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 166 [ RunTime:0.1010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-28T22:02:37+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 166 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:02:38+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 166 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:03:12+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.1300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:03:14+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.1340s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:03:15+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.1570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:03:15+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.1640s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:03:16+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0030s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.4920s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:03:16+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0270s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.3270s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:03:17+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0010s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.4310s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:03:50+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0010s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.0590s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:03:52+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0010s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.0930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:04:00+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0010s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.0410s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T22:04:23+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0010s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.0700s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:04:24+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0010s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.0700s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:04:25+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0020s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.0710s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T22:04:25+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0010s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 106 [ RunTime:0.0750s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:04:53+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0010s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='huawei111',`goods_price`='1700',`goods_number`='21' WHERE `goods_id` = 108 [ RunTime:0.0640s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 23 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 27 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 31 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 35 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 39 行.
+NOTIC: [8] Undefined variable: info D:\SERVER\AppServ\www\0610\shop\Runtime\Cache\Admin\026ccc0ab9fddeecde448105305a0a0e.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:23:55+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:24:22+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:34:08+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:34:27+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+

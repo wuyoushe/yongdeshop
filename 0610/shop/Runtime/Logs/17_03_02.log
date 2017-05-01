@@ -1,0 +1,18 @@
+[ 2017-03-02T20:54:54+08:00 ] ::1 /0610/shop/index.php/Admin/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-03-02T20:54:55+08:00 ] ::1 /0610/shop/index.php/Admin/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-03-02T22:06:54+08:00 ] ::1 /0610/shop/index.php/Admin/Role/distribute/role_id/11
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Role\distribute.html"  on line 6 "&lt;link href=&quot;{$smarty.const. ADMIN_CSS_URL}mine.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot;&gt;"  - Unexpected " ", expected one of: "{" , "$" , "identifier" , INTEGER
+
+[ 2017-03-02T22:13:45+08:00 ] ::1 /0610/shop/index.php/Admin/Role/distribute/role_id/10
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Role\distribute.html"  on line 6 "&lt;link href=&quot;{$smarty.const. ADMIN_CSS_URL}mine.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot;&gt;"  - Unexpected " ", expected one of: "{" , "$" , "identifier" , INTEGER
+
+[ 2017-03-02T22:20:12+08:00 ] ::1 /0610/shop/index.php/Admin/Role/distribute/role_id/10
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Role\distribute.html"  on line 32 "{if condition=&quot;$arr1['auth_pid'] === $arr['auth_id']&quot;}"  - Unexpected "="
+
+[ 2017-03-02T22:21:19+08:00 ] ::1 /0610/shop/index.php/Admin/Role/distribute/role_id/10
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Role\distribute.html"  on line 32 "{if condition&quot;$arr1['auth_pid'] === $arr['auth_id']&quot;}"  - Unexpected """
+

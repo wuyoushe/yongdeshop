@@ -1,0 +1,69 @@
+[ 2017-03-16T20:19:52+08:00 ] ::1 /0610/shop/index.php/Admin/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T20:19:52+08:00 ] ::1 /0610/shop/index.php/Admin/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T20:19:53+08:00 ] ::1 /0610/shop/index.php/Admin/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T20:19:54+08:00 ] ::1 /0610/shop/index.php/Admin/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T20:19:59+08:00 ] ::1 /0610/shop/index.php/Admin/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T20:20:01+08:00 ] ::1 /0610/shop/index.php/Admin/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T20:20:02+08:00 ] ::1 /0610/shop/index.php/Admin/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T20:20:18+08:00 ] ::1 /0610/shop/index.php/Admin/User/showlist
+ERR: 无法加载控制器:User
+
+[ 2017-03-16T20:20:21+08:00 ] ::1 /0610/shop/index.php/Admin/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T20:20:23+08:00 ] ::1 /0610/shop/index.php/Admin/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T20:20:25+08:00 ] ::1 /0610/shop/index.php/Admin/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T22:13:00+08:00 ] ::1 /0610/shop/index.php/Admin/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T22:13:10+08:00 ] ::1 /0610/shop/index.php/Admin/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-03-16T22:16:24+08:00 ] ::1 /0610/shop/index.php/Admin/Order/showlist
+ERR: 模板不存在:D:/SERVER/AppServ/www/0610/shop/Admin/View/Order/showlist.html
+
+[ 2017-03-16T22:17:00+08:00 ] ::1 /0610/shop/index.php/Admin/Order/look
+ERR: 非法操作:look
+
+[ 2017-03-16T22:17:02+08:00 ] ::1 /0610/shop/index.php/Admin/Order/look
+ERR: 非法操作:look
+
+[ 2017-03-16T22:17:03+08:00 ] ::1 /0610/shop/index.php/Admin/Order/dayin
+ERR: 非法操作:dayin
+
+[ 2017-03-16T22:17:06+08:00 ] ::1 /0610/shop/index.php/Admin/Order/look
+ERR: 非法操作:look
+
+[ 2017-03-16T22:17:46+08:00 ] ::1 /0610/shop/index.php/Admin/Order/look
+ERR: 非法操作:look
+
+[ 2017-03-16T22:19:45+08:00 ] ::1 /0610/shop/index.php/Admin/Order/dayin
+ERR: 非法操作:dayin
+
+[ 2017-03-16T22:19:52+08:00 ] ::1 /0610/shop/index.php/Admin/Order/dayin
+ERR: 非法操作:dayin
+
+[ 2017-03-16T22:19:55+08:00 ] ::1 /0610/shop/index.php/Admin/Order/dayin
+ERR: 非法操作:dayin
+
+[ 2017-03-16T22:19:57+08:00 ] ::1 /0610/shop/index.php/Admin/Order/dayin
+ERR: 非法操作:dayin
+

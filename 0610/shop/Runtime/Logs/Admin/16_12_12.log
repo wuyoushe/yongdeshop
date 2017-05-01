@@ -1,0 +1,180 @@
+[ 2016-12-12T21:06:12+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/showlist
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Goods\showlist.html"  on line 56 "&lt;td&gt;&lt;img src=&quot;{smarty.const.ADMIN_IMG_URL}.20121018-174034-58977.jpg&quot; height=&quot;60&quot; width=&quot;60&quot;&gt;&lt;/td&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-12-12T21:06:44+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/showlist
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Goods\showlist.html"  on line 57 "&lt;td&gt;&lt;img src=&quot;{smarty.const.ADMIN_IMG_URL}.20121018-174034-97960.jpg&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;&lt;/td&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-12-12T21:07:08+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/showlist
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Goods\showlist.html"  on line 57 "&lt;td&gt;&lt;img src=&quot;{smarty.const.ADMIN_IMG_URL}.20121018-174034-97960.jpg&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;&lt;/td&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-12-12T21:07:34+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/showlist
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Goods\showlist.html"  on line 56 "&lt;td&gt;&lt;img src=&quot;{smarty.const.ADMIN_IMG_URL }20121018-174034-58977.jpg&quot; height=&quot;60&quot; width=&quot;60&quot;&gt;&lt;/td&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-12-12T21:08:30+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/showlist
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Goods\showlist.html"  on line 56 "&lt;td&gt;&lt;img src=&quot;{smarty.const.ADMIN_IMG_URL}20121018-174034-58977.jpg&quot; height=&quot;60&quot; width=&quot;60&quot;&gt;&lt;/td&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-12-12T21:09:40+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.ADMIN_CSS_URL%7Dmine.css
+ERR: 非法操作:{ $smarty.const.ADMIN_CSS_URL}mine.css
+
+[ 2016-12-12T21:10:39+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.ADMIN_CSS_URL%7Dmine.css
+ERR: 非法操作:{ $smarty.const.ADMIN_CSS_URL}mine.css
+
+[ 2016-12-12T21:36:40+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-12-12T21:36:47+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/__SELF__
+ERR: 非法操作:__SELF__
+
+[ 2016-12-12T21:36:49+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-12-12T21:57:34+08:00 ] ::1 /0610/shop/index.php/Admin/index/__CONTROLLER__/left.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2016-12-12T21:57:34+08:00 ] ::1 /0610/shop/index.php/Admin/index/__CONTROLLER__/head.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2016-12-12T21:57:34+08:00 ] ::1 /0610/shop/index.php/Admin/index/__CONTROLLER__/right.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2016-12-12T22:09:31+08:00 ] ::1 /0610/shop/index.php/Admin/index/index
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Index\index.html"  on line 14 "&lt;frame name=head src=&quot;{smarty.const__CONTROLLER__}/head.html&quot; frameborder=0 noresize scrolling=no&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-12-12T22:10:59+08:00 ] ::1 /0610/shop/index.php/Admin/index/index
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Index\index.html"  on line 16 "&lt;frame name=left src=&quot;{smarty.const__CONTROLLER__}/left.html&quot; frameborder=0 noresize /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-12-12T22:11:16+08:00 ] ::1 /0610/shop/index.php/Admin/index/%7B%20smarty.const__CONTROLLER__%20%7D/left.html
+ERR: 非法操作:{ smarty.const__CONTROLLER__ }
+
+[ 2016-12-12T22:11:16+08:00 ] ::1 /0610/shop/index.php/Admin/index/%7B%20smarty.const__CONTROLLER__%20%7D/right.html
+ERR: 非法操作:{ smarty.const__CONTROLLER__ }
+
+[ 2016-12-12T22:11:16+08:00 ] ::1 /0610/shop/index.php/Admin/index/%7B%20smarty.const__CONTROLLER__%20%7D/head.html
+ERR: 非法操作:{ smarty.const__CONTROLLER__ }
+
+[ 2016-12-12T22:13:34+08:00 ] ::1 /0610/shop/index.php/Admin/index/%7B%20smarty.const__CONTROLLER__%20%7D/head
+ERR: 非法操作:{ smarty.const__CONTROLLER__ }
+
+[ 2016-12-12T22:13:34+08:00 ] ::1 /0610/shop/index.php/Admin/index/%7B%20smarty.const__CONTROLLER__%20%7D/left
+ERR: 非法操作:{ smarty.const__CONTROLLER__ }
+
+[ 2016-12-12T22:13:34+08:00 ] ::1 /0610/shop/index.php/Admin/index/%7B%20smarty.const__CONTROLLER__%20%7D/right
+ERR: 非法操作:{ smarty.const__CONTROLLER__ }
+
+[ 2016-12-12T22:14:11+08:00 ] ::1 /0610/shop/index.php/Admin/index/index
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Index\index.html"  on line 14 "&lt;frame name=head src=&quot;{smarty.const__CONTROLLER__}/head&quot; frameborder=0 noresize scrolling=no&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-12-12T22:14:29+08:00 ] ::1 /0610/shop/index.php/Admin/index/%7B%20smarty.const__CONTROLLER__%20%7D/head
+ERR: 非法操作:{ smarty.const__CONTROLLER__ }
+
+[ 2016-12-12T22:14:29+08:00 ] ::1 /0610/shop/index.php/Admin/index/%7B%20smarty.const__CONTROLLER__%20%7D/left
+ERR: 非法操作:{ smarty.const__CONTROLLER__ }
+
+[ 2016-12-12T22:14:29+08:00 ] ::1 /0610/shop/index.php/Admin/index/%7B%20smarty.const__CONTROLLER__%20%7D/right
+ERR: 非法操作:{ smarty.const__CONTROLLER__ }
+
+[ 2016-12-12T22:24:45+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_CSS_URL?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2016-12-12T22:24:45+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Eheader_left.jpg
+ERR: 非法操作:
+
+[ 2016-12-12T22:24:45+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Emenu_icon.gif
+ERR: 非法操作:
+
+[ 2016-12-12T22:24:45+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Eheader_right.jpg
+ERR: 非法操作:
+
+[ 2016-12-12T22:24:45+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2016-12-12T22:24:45+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Eheader_bg.jpg
+ERR: 非法操作:
+
+[ 2016-12-12T22:24:45+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;?%3Eadmin_p.gif
+ERR: 非法操作:
+
+[ 2016-12-12T22:24:45+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php
+ERR: 非法操作:
+
+[ 2016-12-12T22:24:45+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Emenu_icon.gif
+ERR: 非法操作:
+
+[ 2016-12-12T22:29:28+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2016-12-12T22:29:28+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;?%3Eadmin_p.gif
+ERR: 非法操作:
+
+[ 2016-12-12T22:29:28+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php
+ERR: 非法操作:
+
+[ 2016-12-12T22:33:14+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php
+ERR: 非法操作:
+
+[ 2016-12-12T22:33:14+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2016-12-12T22:33:14+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;?%3Eadmin_p.gif
+ERR: 非法操作:
+
+[ 2016-12-12T22:33:14+08:00 ] ::1 /0610/shop/index.php/Admin/Index/%3C?php
+ERR: 非法操作:
+
+[ 2016-12-12T22:49:28+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.ADMIN_CSS_URL%7Dmine.css
+ERR: 非法操作:{ $smarty.const.ADMIN_CSS_URL}mine.css
+
+[ 2016-12-12T22:49:56+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/__SELF__
+ERR: 非法操作:__SELF__
+
+[ 2016-12-12T22:50:43+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/__SELF__
+ERR: 非法操作:__SELF__
+
+[ 2016-12-12T22:51:40+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/__SELF__
+ERR: 非法操作:__SELF__
+
+[ 2016-12-12T22:51:43+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/__SELF__
+ERR: 非法操作:__SELF__
+
+[ 2016-12-12T22:53:04+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/__SELF__
+ERR: 非法操作:__SELF__
+
+[ 2016-12-12T22:53:19+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/__SELF__
+ERR: 非法操作:__SELF__
+
+[ 2016-12-12T22:53:33+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.ADMIN_CSS_URL%20%7Dmine.css
+ERR: 非法操作:{ $smarty.const.ADMIN_CSS_URL }mine.css
+
+[ 2016-12-12T22:53:49+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.__SELF__%20%7D
+ERR: 非法操作:{ $smarty.const.__SELF__ }
+
+[ 2016-12-12T22:54:39+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.ADMIN_CSS_URL%20%7Dmine.css
+ERR: 非法操作:{ $smarty.const.ADMIN_CSS_URL }mine.css
+
+[ 2016-12-12T22:56:02+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.ADMIN_CSS_URL%7Dmine.css
+ERR: 非法操作:{ $smarty.const.ADMIN_CSS_URL}mine.css
+
+[ 2016-12-12T22:56:51+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.ADMIN_CSS_URL%20%7Dmine.css
+ERR: 非法操作:{ $smarty.const.ADMIN_CSS_URL }mine.css
+
+[ 2016-12-12T22:56:56+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.ADMIN_CSS_URL%20%7Dmine.css
+ERR: 非法操作:{ $smarty.const.ADMIN_CSS_URL }mine.css
+
+[ 2016-12-12T23:31:51+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-12-12T23:32:18+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-12-12T23:32:48+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-12-12T23:32:57+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-12-12T23:33:53+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/xiugai/goods_id
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-12-12T23:48:11+08:00 ] ::1 /0610/shop/index.php/Admin/Goods/%7B%20$smarty.const.ADMIN_CSS_URL%20%7Dmine.css
+ERR: 非法操作:{ $smarty.const.ADMIN_CSS_URL }mine.css
+

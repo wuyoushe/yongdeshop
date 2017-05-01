@@ -1,0 +1,6 @@
+[ 2017-03-04T22:29:04+08:00 ] ::1 /0610/shop/index.php/Admin/Auth/showlist
+ERR: Syntax Error in template "D:/SERVER/AppServ/www/0610/shop/Admin/View\Auth\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2017-03-04T22:29:06+08:00 ] ::1 /0610/shop/index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
